@@ -4,12 +4,11 @@
 ### Dashboard Link : https://app.powerbi.com/groups/me/list?experience=power-bi
 ## Project Summary
 
-This dashboard helps to identify the rate of bike purchase in Europe, North America and Pacific. The report shows that over 50% of the three countries purchased bike the most. And that is in North America.
+This dashboard provides insights into bike purchase rates across Europe, North America, and the Pacific region. The data indicates that North America leads with over 50% of bike purchases among the three countries.
 
-There are 1000 people in total. 51% are male, 49% are female. The males ride farther distance than the female. In terms of income and occupation, the profesionals(Bachelors Degree) with the average earning of about 10M dollars has high interest in bike purchase. And these people's age group is between 31-50yrs.Apparently there are more married people than the single.
+The surveyed population consists of 1000 individuals, with a gender distribution of 51% male and 49% female. Males tend to cover longer distances on bikes compared to females. Regarding demographics, professionals with a Bachelor's Degree, earning an average of approximately 10 million dollars, exhibit a heightened interest in bike purchases. This group predominantly falls within the 31-50 age range, and there is a notable prevalence of married individuals.
 
-In summary, the well earning and educated married people has more interest in the bike ride exercise because they can afford the lifestyle in terms of time, money and enthusiasm. 
-
+In summary, the analysis reveals that well-educated, high-earning, and married individuals are particularly inclined towards bike riding, likely due to their ability to afford the associated lifestyle in terms of time, money, and enthusiasm.
 #Snapshot
 
 ![Screenshot (55)](https://github.com/ElizabethSesebor/PowerBI-Projects/assets/103274299/701d9737-b9f8-41f7-bc18-d6db1ba4154c)
